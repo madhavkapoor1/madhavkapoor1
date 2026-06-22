@@ -11,7 +11,7 @@
 
 This is where I spend most of my energy lately — putting AI to work *inside* hard engineering problems, not around them:
 
-- 🧠 **AI in the firmware loop** — leading a company-wide AI integration initiative at Eagle Wireless: AI-driven Jenkins/CI pipelines and **Claude Code subagents** that automate QXDM log analysis, root-cause classification, and debug triage — cutting manual triage time by ~40% during validation cycles
+- 🧠 **AI in the firmware loop** — AI integration in everyday workflows nd **Claude Code subagents** that automate QXDM log analysis, root-cause classification, and debug triage.
 - 🛠️ **AI tooling & agents** — designing agentic workflows that reshape how embedded teams debug, review, and ship
 - 📡 **AI + wireless** — AI-driven XR traffic modeling across 6G packet flows; AI-assisted sensing for 5G radar imaging
 - 🚀 **Shipping with AI** — using AI as a force multiplier across the stack, from firmware to cloud
