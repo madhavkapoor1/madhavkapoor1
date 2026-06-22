@@ -2,7 +2,6 @@
 
 <p align="center">
   Embedded &amp; wireless software engineer who builds <b>AI into the systems that talk to the physical world</b>.<br/>
-  Firmware on automotive Qualcomm SoCs by day — AI pipelines, agents, and tooling that make engineering faster the rest of the time.
 </p>
 
 ---
