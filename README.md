@@ -10,10 +10,10 @@
 
 This is where I spend most of my energy lately — putting AI to work *inside* hard engineering problems, not around them:
 
-- 🧠 **AI in the firmware loop** — AI integration in everyday workflows and **Claude Code subagents** that automate QXDM log analysis, root-cause classification, and debug triage.
-- 🛠️ **AI tooling & agents** — designing agentic workflows that reshape how embedded teams debug, review, and ship
+- 🧠 **AI in the firmware loop** — AI integration in everyday workflows and **Claude Code subagents** that automate log analysis, root-cause classification, and debug triage in embedded systems.
+- 🛠️ **AI tooling & agents** — using AI as a force multiplier across the stack, from firmware to cloud
 - 📡 **AI + wireless** — AI-driven XR traffic modeling across 6G packet flows; AI-assisted sensing for 5G radar imaging
-- 🚀 **Shipping with AI** — using AI as a force multiplier across the stack, from firmware to cloud
+- 🚀 **Shipping with AI** — building software where I am the first customer
 
 ### 🔧 The engineering foundation under it
 
