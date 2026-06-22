@@ -77,15 +77,6 @@ This is where I spend most of my energy lately — putting AI to work *inside* h
 
 ---
 
-### 📊 GitHub stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=madhavkapoor1&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=madhavkapoor1&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
 ### 📫 Reach me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/madhavkapoor28/)
